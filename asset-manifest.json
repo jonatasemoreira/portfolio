@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portf-lio-react/static/css/main.869b716c.css",
+    "main.js": "/portf-lio-react/static/js/main.3871d244.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portf-lio-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/teste.png": "/portf-lio-react/static/media/teste.5a76e742be6cd5916344.png",
+    "static/media/filmesReact.png": "/portf-lio-react/static/media/filmesReact.71855aeb54765da61733.png",
+    "static/media/author.png": "/portf-lio-react/static/media/author.27bd7338fddf5eb60a7f.png",
+    "static/media/pt.png": "/portf-lio-react/static/media/pt.51d6b3ffa2cf783bda9c.png",
+    "static/media/eua.png": "/portf-lio-react/static/media/eua.e6dec21856ac60e99f57.png",
+    "index.html": "/portf-lio-react/index.html",
+    "main.869b716c.css.map": "/portf-lio-react/static/css/main.869b716c.css.map",
+    "main.3871d244.js.map": "/portf-lio-react/static/js/main.3871d244.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portf-lio-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869b716c.css",
+    "static/js/main.3871d244.js"
+  ]
+}
