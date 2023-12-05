@@ -1,0 +1,27 @@
+
+.container-principal-projetos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+.container-dos-projetos {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.container-dos-projetos img {
+    width: 300px;
+    height: 200px;
+    box-shadow: 1px 1px 5px var(--bs-gray);
+    cursor: pointer;
+}
+.container-dos-projetos img:active {
+    transform: scale(0.9);
+}
+@media(max-width:768px) {
+    .container-dos-projetos{
+        margin-right: 0rem;
+        margin: 0.5rem auto;
+    }
+}

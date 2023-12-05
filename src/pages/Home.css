@@ -1,0 +1,74 @@
+html {
+    scroll-behavior: smooth;
+  }
+.home-container {
+    width: 90%;
+    margin: 0rem auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.logo,
+.main-content, 
+.footer {
+    margin-bottom: 2rem;
+    display: flex;
+}
+.logo div,
+.main-content div,
+.footer div {
+    width: 50%;
+    padding: 1rem;
+}
+.title-head {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.imagem-author img {
+    width: 200px;
+}
+.spin img {
+    animation: girarSpin 5s infinite;
+}
+@keyframes girarSpin {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(360deg);
+    }
+}
+.rede-social nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+.rede-social nav ul li a {
+    font-size: 35px;
+    color: wheat;
+}
+.rede-social nav ul li a:hover, 
+.btn-contact:hover {
+    color: #ffa60088;
+    transition: 0.5s;
+}
+.btn-contact {
+    color: white;
+    float: right;
+}
+.icon-phone {
+    margin: 1rem;
+}
+.idiomas img {
+    width: 30px;
+    transform: translateY(10px);
+    margin-right: 0.5rem;
+}
+/*Projetos*/
+.container-projects {
+    min-height: 100vh;
+    text-align: center;
+    padding-top: 1.5rem;
+}
